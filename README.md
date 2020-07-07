@@ -77,4 +77,4 @@ A tabela Aluno (classe Aluno) tem os campos **nome**, **matrícula** (unique) e 
 python manage.py createsuperuser
 ```
 Para poder executar os demais métodos que são executados de forma individual, basta apenas colocar o **id** à frente de uma das URLs anteriores, por exemplo:
-- http://127.0.0.1:8000/api/v1/alunos/**1**
+- http://127.0.0.1:8000/api/v1/alunos/1
