@@ -1,0 +1,11 @@
+.idea
+.vs*
+# Python
+__pycache__/
+# Envs
+.env
+env
+venv
+
+# db
+db.sqlite3
